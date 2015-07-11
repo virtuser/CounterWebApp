@@ -115,9 +115,9 @@
 	</build>
 	<distributionManagement>
     <repository>
-      <id>releases</id>
-      <name>Internal Releases</name>
-      <url>http://ec2-54-169-169-105.ap-southeast-1.compute.amazonaws.com:8081/nexus/content/repositories/releases</url>
+      <id>DevOps</id>
+      <name>DevOps</name>
+      <url>http://ec2-54-169-169-105.ap-southeast-1.compute.amazonaws.com:8081/nexus/content/repositories/DevOps</url>
     </repository>
   </distributionManagement>
 </project>
