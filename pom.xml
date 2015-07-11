@@ -113,4 +113,11 @@
 		</plugins>
 	
 	</build>
+	<distributionManagement>
+    <repository>
+      <id>releases</id>
+      <name>Internal Releases</name>
+      <url>http://ec2-54-169-169-105.ap-southeast-1.compute.amazonaws.com:8081/nexus/content/repositories/releases</url>
+    </repository>
+  </distributionManagement>
 </project>
