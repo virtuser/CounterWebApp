@@ -6,4 +6,3 @@
 <h3>Counter : ${counter}</h3>	
 </body>
 </html>
-
