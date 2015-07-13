@@ -1,8 +1,10 @@
 <html>
 <body>
-<h1 align="center">Virtusa</h1>
-<h3>Maven + Spring MVC Web Project!!!!!</h3>
- <h3>Message : ${message}</h3>
+
+<h1 align="center">Welcome to Virtusa DevOps Demo </h1> 
+
+ <h3>Continuous Integration and Continuous Deployment Chain</h3>
+<img src="images/devops.jpg">
 <h3>Counter : ${counter}</h3>	
 </body>
 </html>
