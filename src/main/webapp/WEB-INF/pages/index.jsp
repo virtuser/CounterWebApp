@@ -9,7 +9,7 @@
 <marquee><h1> <font color="blue">Welcome to Virtusa DevOps Demo....!!!</font></h1></marquee>
 <h3>Continuous Integration and Continuous Deployment Pipeline....!</h3>
   
-<img src="<%=request.getContextPath()%>devops.gif"/>
+<img src="<%=request.getContextPath()%>/devops.gif"/>
   
 <h3>My Counter : ${counter}</h3>	
 </body>
