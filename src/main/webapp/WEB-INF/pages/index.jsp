@@ -7,7 +7,7 @@
 
 <body>
 <marquee><h1> <font color="blue">Welcome to Virtusa DevOps Demo...!!!</font></h1></marquee>
-<h3>Continuous Integration and Continuous Deployment Pipeline...!</h3>
+<h3>Continuous Integration and Continuous Deployment Pipeline...!!</h3>
   
 <img src="https://raw.githubusercontent.com/virtuser/CounterWebApp/master/src/main/webapp/WEB-INF/pages/devops.gif" alt="DevOps Logo" width="75%" height="75%"/>
   
